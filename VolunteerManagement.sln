@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.Domain", "VolunteerManagement.Domain\VolunteerManagement.Domain.csproj", "{0C49A051-8C49-4B62-AE50-8FBACDB0F924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.Infrastructure", "VolunteerManagement.Infrastructure\VolunteerManagement.Infrastructure.csproj", "{74406C2E-C70C-42E7-A35B-85B074CFAF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.Application", "VolunteerManagement.Application\VolunteerManagement.Application.csproj", "{6302BCA0-00CF-4E03-9348-ED4CD67728AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.Web", "VolunteerManagement.Web\VolunteerManagement.Web.csproj", "{A858EDFA-B419-418A-938C-62DF836C8434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.Api", "VolunteerManagement.Api\VolunteerManagement.Api.csproj", "{D02097D1-889B-410A-8A7A-F4BF989C7DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerManagement.IOC", "VolunteerManagement.IOC\VolunteerManagement.IOC.csproj", "{5BD17960-C2C8-43A3-8C1B-31CF09EC0524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C49A051-8C49-4B62-AE50-8FBACDB0F924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C49A051-8C49-4B62-AE50-8FBACDB0F924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C49A051-8C49-4B62-AE50-8FBACDB0F924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C49A051-8C49-4B62-AE50-8FBACDB0F924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74406C2E-C70C-42E7-A35B-85B074CFAF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74406C2E-C70C-42E7-A35B-85B074CFAF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74406C2E-C70C-42E7-A35B-85B074CFAF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74406C2E-C70C-42E7-A35B-85B074CFAF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6302BCA0-00CF-4E03-9348-ED4CD67728AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6302BCA0-00CF-4E03-9348-ED4CD67728AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6302BCA0-00CF-4E03-9348-ED4CD67728AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6302BCA0-00CF-4E03-9348-ED4CD67728AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A858EDFA-B419-418A-938C-62DF836C8434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A858EDFA-B419-418A-938C-62DF836C8434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A858EDFA-B419-418A-938C-62DF836C8434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A858EDFA-B419-418A-938C-62DF836C8434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02097D1-889B-410A-8A7A-F4BF989C7DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02097D1-889B-410A-8A7A-F4BF989C7DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02097D1-889B-410A-8A7A-F4BF989C7DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02097D1-889B-410A-8A7A-F4BF989C7DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD17960-C2C8-43A3-8C1B-31CF09EC0524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD17960-C2C8-43A3-8C1B-31CF09EC0524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD17960-C2C8-43A3-8C1B-31CF09EC0524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD17960-C2C8-43A3-8C1B-31CF09EC0524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

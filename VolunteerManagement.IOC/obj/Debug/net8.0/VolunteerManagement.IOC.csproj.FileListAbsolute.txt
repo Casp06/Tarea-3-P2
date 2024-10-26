@@ -1,0 +1,11 @@
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\bin\Debug\net8.0\VolunteerManagement.IOC.deps.json
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\bin\Debug\net8.0\VolunteerManagement.IOC.dll
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\bin\Debug\net8.0\VolunteerManagement.IOC.pdb
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.AssemblyInfoInputs.cache
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.AssemblyInfo.cs
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.csproj.CoreCompileInputs.cache
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.dll
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\refint\VolunteerManagement.IOC.dll
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\VolunteerManagement.IOC.pdb
+C:\C#\VolunteerManagement\VolunteerManagement.IOC\obj\Debug\net8.0\ref\VolunteerManagement.IOC.dll
