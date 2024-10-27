@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Infrastructure\\VolunteerManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.Infrastructure\\VolunteerManagement.Infrastructure.csproj",
       "projectName": "VolunteerManagement.Infrastructure",
-      "projectPath": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Infrastructure\\VolunteerManagement.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.Infrastructure\\VolunteerManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Cristopher Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristopher Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

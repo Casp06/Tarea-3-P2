@@ -1,6 +1,6 @@
-@VolunteerManagement.Api_HostAddress = http://localhost:5252
+@VolunteerManagement.API_HostAddress = http://localhost:5067
 
-GET {{VolunteerManagement.Api_HostAddress}}/weatherforecast/
+GET {{VolunteerManagement.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

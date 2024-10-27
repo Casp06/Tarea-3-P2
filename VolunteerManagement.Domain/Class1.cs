@@ -1,6 +1,7 @@
-﻿namespace VolunteerManagement.Domain;
-
-public class Class1
+﻿namespace VolunteerManagement.Domain
 {
+    public class Class1
+    {
 
+    }
 }

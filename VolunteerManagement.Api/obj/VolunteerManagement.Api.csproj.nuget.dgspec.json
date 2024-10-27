@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\VolunteerManagement\\VolunteerManagement.Api\\VolunteerManagement.Api.csproj": {}
+    "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.API\\VolunteerManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\C#\\VolunteerManagement\\VolunteerManagement.Api\\VolunteerManagement.Api.csproj": {
+    "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.API\\VolunteerManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Api\\VolunteerManagement.Api.csproj",
-        "projectName": "VolunteerManagement.Api",
-        "projectPath": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Api\\VolunteerManagement.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.API\\VolunteerManagement.API.csproj",
+        "projectName": "VolunteerManagement.API",
+        "projectPath": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.API\\VolunteerManagement.API.csproj",
         "packagesPath": "C:\\Users\\Cristopher Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\VolunteerManagement\\VolunteerManagement.Api\\obj\\",
+        "outputPath": "C:\\Users\\Cristopher Alejandro\\source\\repos\\VolunteerManagement\\VolunteerManagement.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cristopher Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,10 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

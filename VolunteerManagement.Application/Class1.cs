@@ -1,6 +1,7 @@
-﻿namespace VolunteerManagement.Application;
-
-public class Class1
+﻿namespace VolunteerManagement.Application
 {
+    public class Class1
+    {
 
+    }
 }
